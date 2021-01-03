@@ -7,7 +7,6 @@ admin.site.site_title = "Pollster Admmin Area"
 admin.site.index_title = "Welcome to pollster admin area"
 
 
-
 # admin.site.register(Question)
 # admin.site.register(Choice)
 # TabularInline - To have the choices within the question's admin field
